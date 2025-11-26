@@ -10,15 +10,8 @@ A lightweight, open-source tool to generate and parse **ibaAnalyzer-compatible `
 
 
 ## Installation  
-Since this package is not yet published to PyPI, install it locally from the GitHub repo:  
-
 ```bash
-# Clone the repo
-git clone https://github.com/ZisIsNotZis/iba.py.git
-cd iba.py
-
-# Install with pip (supports Python 3.8+)
-pip install .
+pip install iba-py
 ```
 
 
